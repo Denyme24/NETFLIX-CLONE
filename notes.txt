@@ -1,0 +1,7 @@
+ "position: relative" property inside the "nav img" selector signifies that the positioning of the image is relative to its normal position in the document flow. This means that any positioning properties such as top, bottom, left, or right will be applied relative to its original position.
+ -------------------------------------------------
+
+ The filter: invert(1) property in CSS is used to invert the colors of an element. When applied to an element, it will reverse the brightness of the colors, making dark colors appear light and light colors appear dark. In the given context, it is used to invert the color of an SVG icon inside a <span> element within a .faqbox class. This is done to change the color of the SVG icon to white, which contrasts with the dark background color of the .faqbox element.
+
+
+ In CSS, the width property with a value of 9em signifies that the element should have a width equal to 9 times the size of the current font size. The "em" unit is a relative unit of measurement that is based on the font size of the parent element. So, if the font size of the parent element is 16px, then 9em would be equal to 144px (9 * 16px).
